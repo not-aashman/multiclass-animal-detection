@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+runs/
+.ipynb_checkpoints/
+# dataset is on Kaggle, not in this repo
+*.zip
+Multi-Class Animal Detection.v1-yolov8/

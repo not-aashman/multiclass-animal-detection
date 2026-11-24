@@ -1,0 +1,27 @@
+{
+  "test_images_total": 300,
+  "duplicates_removed": 14,
+  "test_images_kept": 286,
+  "boxes_kept": 371,
+  "phash_threshold": 8,
+  "precision": 0.8521873300984966,
+  "recall": 0.802292147059849,
+  "mAP50": 0.8643910344393703,
+  "mAP50_95": 0.6356520251135959,
+  "duplicates": {
+    "Elephant-13-_jpeg.rf.94584f74c05165c2528ed4ec0ef91e6d.jpg": "Elephant-7-_jpg.rf.47125ae9def5d39c1d03035b154f3df9.jpg",
+    "Elephant-15-_jpeg.rf.bfa60d96a67a18ea411c08d75b3bac71.jpg": "Elephant-3-_jpg.rf.d7be870a1d901b68b607a7a61687e2e3.jpg",
+    "Elephant-20-_jpeg.rf.8e91845057253d08cf077ae5ad434aed.jpg": "Elephant-25-_jpg.rf.bff3dc623c9e81d4a564cc464bf73548.jpg",
+    "Elephant-21-_jpg.rf.d8de6da5d2135358ece6ea06a81c2bbb.jpg": "Elephant-25-_jpeg.rf.4ca22d81d22b127bea56afc09bd72acc.jpg",
+    "Elephant-32-_jpg.rf.9ff8503b7bb4a2bda3a24a11db526be0.jpg": "Elephant-4-_jpeg.rf.4f4a8a89ef49607c9e815fe420276730.jpg",
+    "Elephant-43-_jpeg.rf.532caffa4060fa052779221d5739f66b.jpg": "Elephant-5-_png.rf.0c27d93790a825556552797b61018ca1.jpg",
+    "cat-29-_jpg.rf.8abf6b27498961ce00fce247b86729a2.jpg": "cat-1-_jpg.rf.262c1b0afa63fad5a4266c0d13d07b75.jpg",
+    "cat-30-_jpeg.rf.b5b6d2c4e723991b6143c6eb5156cf94.jpg": "cat-17-_jpg.rf.8054be4f7d2103e7e807bb7aca3dc31e.jpg",
+    "cat-31-_jpg.rf.733effd4c6d3ac5171c6c087298cf714.jpg": "cat-42-_jpeg.rf.3288757e0b0065760f316dbd2667bb6b.jpg",
+    "cheetah-81-_jpg.rf.8c4183c083f49ce275636940c3e9fedc.jpg": "cheetah-65-_jpg.rf.b9c898c50f06be9cd4682f062e6c6702.jpg",
+    "dog-13-_jpg.rf.e8a91b16f2437c1157ec74cbaa001dca.jpg": "dog-33-_jpeg.rf.9b27c2b85ad7b64109293b9436471f12.jpg",
+    "dog-29-_jpeg.rf.7d235ae1318bb5794f23b21e8db2130d.jpg": "dog-35-_jpg.rf.9ae5be05452c6f1dea63f07928355cc3.jpg",
+    "panda-1-_jpg.rf.fbbc89db5c38cefd9c833fdb9f34ab98.jpg": "panda-72-_jpg.rf.98b2aa4b25e2a1730bff50fc356b62e8.jpg",
+    "panda-50-_jpg.rf.c3d3aadbbeaebd904b7d5ca0a4f05b90.jpg": "panda-74-_jpg.rf.cd25201ae0615829c71430c9c3f1510c.jpg"
+  }
+}
